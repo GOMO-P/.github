@@ -5,7 +5,7 @@
 ##  프로젝트 소개
 
 <div align="center">
-  <img src="./assets/images/mirae-banner.png" width="100%" />
+  <img src="https://github.com/GOMO-P/Mirae/blob/main/assets/images/mirae-banner.png?raw=true" width="100%" />
 </div>
 
 **Mirae(미래)** 는 혼자 하는 공부의 외로움을 해결하고, 함께 성장하는 환경을 제공하는 스터디 플랫폼입니다.
